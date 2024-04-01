@@ -21,8 +21,10 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## Python ———— Backend
 
+``` bash
 cd backend/test
 
 python add_poc.py
 
 python app.py
+```
